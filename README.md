@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋💯
+My name Ash! I love crypto and web development. 
+
+
 
 <!--
 **ashtilawat23/ashtilawat23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
