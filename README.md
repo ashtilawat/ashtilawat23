@@ -1,7 +1,8 @@
 ### Hi there 👋💯
 My name is Ash! I love crypto and web development. 
 
-
+Currently, trying to learn more about React and blockchains to build something myself. 
+You can find me on Twitter @ashtilawat23 or shoot me an email at ashtilawat23@gmail.com. 📧
 
 <!--
 **ashtilawat23/ashtilawat23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
