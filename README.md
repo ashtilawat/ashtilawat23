@@ -1,5 +1,5 @@
 ### Hi there 👋💯
-My name Ash! I love crypto and web development. 
+My name is Ash! I love crypto and web development. 
 
 
 
