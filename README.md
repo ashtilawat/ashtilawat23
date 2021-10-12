@@ -1,3 +1,3 @@
-### Hi, I'm Ash! 
-![image](https://user-images.githubusercontent.com/73544020/136992698-b10c25e6-023b-43bf-8da6-179ffb139cb2.png)
+### Hi, I'm Ash! 👋
 
+I am a Release Manager on the Labs team at Lambda School. We build apps for nonprofits, and some of them are even currently being used by thousands today. 
