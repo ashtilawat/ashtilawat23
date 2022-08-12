@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashtilawat23&label=Profile%20views&color=0e75b6&style=flat" alt="ashtilawat23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashtilawat23" alt="ashtilawat23" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ashtilawat23" target="blank"><img src="https://img.shields.io/twitter/follow/ashtilawat23?logo=twitter&style=for-the-badge" alt="ashtilawat23" /></a> </p>
 
 - 🔭 I’m currently working on [a Case Mgmt System for Family Promise of Spokane.](https://github.com/BloomTech-Labs/family-promise-case-mgmt-fe)
