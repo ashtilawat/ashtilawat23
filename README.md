@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ash!</h1>
-<h3 align="center">Building products for nonprofits @BloomTech-Labs.</h3>
+<h3 align="center">Program Manager @BloomTech-Labs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashtilawat23&label=Profile%20views&color=0e75b6&style=flat" alt="ashtilawat23" /> </p>
 
