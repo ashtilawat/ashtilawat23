@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ash!</h1>
-<h3 align="center">Program Manager @BloomTech-Labs.</h3>
+<h3 align="center">Program Manager @ BloomTech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashtilawat23&label=Profile%20views&color=0e75b6&style=flat" alt="ashtilawat23" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ashtilawat23" target="blank"><img src="https://img.shields.io/twitter/follow/ashtilawat23?logo=twitter&style=for-the-badge" alt="ashtilawat23" /></a> </p>
-
-- 🔭 I’m currently working on [a Case Mgmt System for Family Promise of Spokane.](https://github.com/BloomTech-Labs/family-promise-case-mgmt-fe)
-
-- 👯 I’m looking to collaborate on [Asylum Report Generator for Human Rights First.](https://github.com/BloomTech-Labs/asylum-rg-be-a)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ashtilawat23/](https://www.linkedin.com/in/ashtilawat23/)
 
