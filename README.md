@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ashtilawat23@gmail.com**
 
-## Checkout My Recent Articles On Medium
+### Recent Medium Articles
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
