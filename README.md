@@ -18,7 +18,7 @@
 - [Is more thinking always the key to making better decisions?](https://ashtilawat.medium.com/is-more-thinking-always-the-key-to-making-better-decisions-b7a5e0b55467?source=rss-8572fc30cdc9------2)
 - [Climbing Your Biggest Mountain: How One Goal a Year Can Change Your Life](https://ashtilawat.medium.com/climbing-your-biggest-mountain-how-one-goal-a-year-can-change-your-life-5d51035e44dd?source=rss-8572fc30cdc9------2)
 - [AI and Coders — A Match Made in Heaven, But Not for Everyone](https://medium.com/aimonks/ai-and-coders-a-match-made-in-heaven-but-not-for-everyone-b412b5c64dd3?source=rss-8572fc30cdc9------2)
-- [How to Build a Server Using Express and Node.js in Less Than 3 Minutes](https://ashtilawat.medium.com/how-to-build-a-server-using-express-and-node-in-less-than-3-minutes-c3fe99f7dd00?source=rss-8572fc30cdc9------2)
+- [How to Build a Server Using Express and Node.js in Less Than 3 Minutes](https://blog.stackademic.com/how-to-build-a-server-using-express-and-node-in-less-than-3-minutes-c3fe99f7dd00?source=rss-8572fc30cdc9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
